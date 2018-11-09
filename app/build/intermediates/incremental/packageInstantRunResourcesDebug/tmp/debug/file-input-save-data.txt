@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Mon Nov 05 20:17:28 ICT 2018
+1.base=C\:\\Users\\10.10\\AndroidStudioProjects\\HealthFit4\\app\\build\\intermediates\\assets\\debug
+2.path=HealthTips
+0.baseType=DIRECTORY
+2.base=C\:\\Users\\10.10\\AndroidStudioProjects\\HealthFit4\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=fonts/sanamdeklen_chaya.ttf
+0.set=ASSET
+0.base=C\:\\Users\\10.10\\AndroidStudioProjects\\HealthFit4\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=fonts/TH_Mali_Grade6_Bold.ttf

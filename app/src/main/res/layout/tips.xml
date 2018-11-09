@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+    
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="#315ab5" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:gravity="center"
+            android:text="เคล็ดลับการดูแลสุขภาพ"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:typeface="sans" />
+    </RelativeLayout>
+    
+    
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="6dp"
+            android:layout_weight="0.40" >
+
+            <LinearLayout
+                android:id="@+id/button_tips1"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.00"
+                android:background="@drawable/custom_button_white"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/ico_5"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                	android:layout_centerHorizontal="true"
+            		android:layout_centerVertical="true"
+            		android:layout_marginLeft="10dp"
+            		android:layout_marginTop="5dp"
+            		android:text="อาหารเพื่อสุขภาพ"
+            		android:textColor="#000000"
+            		android:textSize="16dp"
+            		android:gravity="center"/>
+            		// android:textStyle="bold"
+            		// android:typeface="sans" 
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/button_tips2"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.00"
+                android:background="@drawable/custom_button_white"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/ico_6"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+            		android:layout_centerVertical="true"
+            		android:layout_marginLeft="20dp"
+            		android:layout_marginTop="5dp"
+            		android:text="ออกกำลังกาย"
+            		android:textColor="#000000"
+            		android:textSize="16dp"
+            		android:gravity="center"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginLeft="6dp"
+            android:layout_weight="0.40" >
+
+            <LinearLayout
+                android:id="@+id/button_tips3"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.00"
+                android:background="@drawable/custom_button_white"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/ico_7"
+                    android:layout_marginBottom="5dp"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+            		android:layout_centerVertical="true"
+            		android:layout_marginLeft="13dp"
+            		android:layout_marginTop="5dp"
+            		android:text="การดูแลสุขภาพ"
+            		android:textColor="#000000"
+            		android:textSize="16dp"
+            		android:gravity="center"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/button_tips4"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.00"
+                android:background="@drawable/custom_button_white"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/ico_8"
+                    android:layout_marginBottom="5dp"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+            		android:layout_centerVertical="true"
+            		android:layout_marginLeft="20dp"
+            		android:layout_marginTop="5dp"
+            		android:text="วิธีลดความอ้วน"
+            		android:textColor="#000000"
+            		android:textSize="16dp"
+            		android:gravity="center"
+            		/>
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    
+    
+    	
+ </LinearLayout>
+
+
+    

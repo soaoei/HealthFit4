@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/warawatsonchang/Documents/SmartHedlty/HealthFit4/app/libs/GraphView-3.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fde5ac3b4d45761447598d87b4c43cc4d143890a">
+        <dex dex="/Users/warawatsonchang/Documents/SmartHedlty/HealthFit4/app/build/intermediates/pre-dexed/debug/GraphView-3.1.1_d8a1815ac521e3a5cf8e027babab6eb66d555193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/warawatsonchang/Documents/SmartHedlty/HealthFit4/app/libs/android-support-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcbf4461f540d9e6f19cb94b3b3e8207e42f9a71">
+        <dex dex="/Users/warawatsonchang/Documents/SmartHedlty/HealthFit4/app/build/intermediates/pre-dexed/debug/android-support-4.0_a09369d8f09f6964b5c2b5ff06350e1676b96093.jar" />
+    </item>
+
+</items>

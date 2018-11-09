@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="app_name">Smart Healty</string>
+    <string name="your_api_key">AIzaSyBoReKXXpdik4GQkf-S7eL3YDaWNHjr-Cw</string>
+
+    <string-array name="Spinner_Content">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+    </string-array>
+ 
+   
+    <string name="start_app">Starting application:</string>
+    <string name="detail1">TEST1</string>
+    <string name="detail2">TEST2</string>
+ 
+    
+</resources>

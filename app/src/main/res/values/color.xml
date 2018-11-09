@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="button_press">#64d3fc</color>
+	<color name="grey_light">#cacaca</color>
+	<color name="red">#fe0000</color>
+	<color name="button_press_yellow">#00FFFF</color>
+	<color name="grey_lightt">#808080</color>
+	<color name="blue_light">#00aeef</color><!-- 0776ff -->
+	<color name="green">#429e47</color>
+	<color name="orange">#ff9c00</color>
+	<color name="gray_dark">#a1a3a4</color>
+</resources>
